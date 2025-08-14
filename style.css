@@ -1,0 +1,10 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    zoom: 2;
+}
+
+#maps {
+    width: 10vh;
+    margin-bottom: 3%;
+}

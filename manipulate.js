@@ -1,0 +1,12 @@
+function show_text_file2(){
+    let input = document.getElementById("input");
+    let output = document.getElementById("output");
+
+
+
+    if(input.value === ""){
+        output.innerText = "Nhập cái gì dùm tui đi";
+    } else {
+        output.innerText = "Nãy bản nhập \"" + input.value + "\" phải hông?";
+    }
+}
