@@ -7,6 +7,6 @@ function show_text_file2(){
     if(input.value === ""){
         output.innerText = "Nhập cái gì dùm tui đi";
     } else {
-        output.innerText = "Nãy bản nhập \"" + input.value + "\" phải hông?";
+        output.innerText = "Cổ nhập \"" + input.value + "\" chứ gì";
     }
 }
